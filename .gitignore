@@ -1,0 +1,6 @@
+Debug/*
+Release/*
+fixed_size_vector/Debug/*
+fixed_size_vector/Release/*
+fixed_size_vector_UT/Debug/*
+fixed_size_vector_UT/Release/*
